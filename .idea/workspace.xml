@@ -1,0 +1,1831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e4313fe-492f-4d7a-9e35-63cded0f7af3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/niuke$LRUCache.coverage" NAME="LRUCache Coverage Results" MODIFIED="1543271421615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>solution.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/niuke$U200.coverage" NAME="U200 Coverage Results" MODIFIED="1544080689879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>solution.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/niuke$U20.coverage" NAME="U20 Coverage Results" MODIFIED="1537776880744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>solution.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="niuke" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc_401.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="48" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc_404.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc_405.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc_406.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1113">
+              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/lc_409.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+              <folding>
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#483#484#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int[]</find>
+      <find>binarySearch(i</find>
+      <find>3,2,4,4</find>
+      <find>2,3,3,5</find>
+      <find>removeEldestEntry</find>
+      <find>put</find>
+      <find>radix</find>
+      <find>upload</find>
+      <find>division</find>
+      <find>div</find>
+      <find>nums.length</find>
+      <find>{</find>
+      <find>&quot;</find>
+      <find>17</find>
+      <find>24</find>
+      <find>]</find>
+      <find>[</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/leetcode/lc_338.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_314.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_342.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_343.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_344.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_345.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_347.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_349.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_350.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_355.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/h1.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_357.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_365.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_367.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_368.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_371.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_372.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_374.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_373.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/p1/Main.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_375.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_376.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_377.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_378.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_146.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_380.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_382.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_383.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_384.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_385.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_386.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_387.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_388.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_389.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_390.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_392.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_393.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_394.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_132.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_395.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_396.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_397.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_398.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_399.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_400.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_401.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_404.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_405.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_406.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/lc_409.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="783" />
+    <option name="y" value="198" />
+    <option name="width" value="1371" />
+    <option name="height" value="690" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="niuke" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Idea\Workspace\niuke\src\solution2\leetcode" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pingan.t2" />
+      <recent name="com.pingan.t1" />
+      <recent name="com.pdd.t3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Idea\Workspace\niuke\src\leetcode" />
+      <recent name="D:\Idea\Workspace\niuke\src\solution2" />
+      <recent name="D:\Idea\Workspace\niuke\src\solution" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.lc_409">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc_399" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_400" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc_400" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_401" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc_401" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc_406" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lc_409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.lc_409" />
+      <module name="niuke" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lc_409" />
+        <item itemvalue="Application.lc_406" />
+        <item itemvalue="Application.lc_401" />
+        <item itemvalue="Application.lc_400" />
+        <item itemvalue="Application.lc_399" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e4313fe-492f-4d7a-9e35-63cded0f7af3" name="Default" comment="" />
+      <created>1535890849537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535890849537</updated>
+      <workItem from="1535890862697" duration="2108000" />
+      <workItem from="1535899193533" duration="122000" />
+      <workItem from="1536067061637" duration="1413000" />
+      <workItem from="1536070769404" duration="1411000" />
+      <workItem from="1536152056620" duration="3893000" />
+      <workItem from="1536309787151" duration="1857000" />
+      <workItem from="1536322771698" duration="9750000" />
+      <workItem from="1536374641576" duration="1792000" />
+      <workItem from="1536377097822" duration="2917000" />
+      <workItem from="1536397056719" duration="595000" />
+      <workItem from="1536405911520" duration="1715000" />
+      <workItem from="1536457701790" duration="171000" />
+      <workItem from="1536458124164" duration="9083000" />
+      <workItem from="1536484280716" duration="7178000" />
+      <workItem from="1536500823965" duration="4439000" />
+      <workItem from="1536566936342" duration="511000" />
+      <workItem from="1536575833570" duration="6723000" />
+      <workItem from="1536629811898" duration="8017000" />
+      <workItem from="1536648365455" duration="7495000" />
+      <workItem from="1536671134896" duration="8835000" />
+      <workItem from="1536719225770" duration="6808000" />
+      <workItem from="1536737945464" duration="11221000" />
+      <workItem from="1536769469104" duration="5711000" />
+      <workItem from="1536833937737" duration="3089000" />
+      <workItem from="1536847069535" duration="6978000" />
+      <workItem from="1536889591787" duration="13170000" />
+      <workItem from="1536981185017" duration="7281000" />
+      <workItem from="1537062207170" duration="6982000" />
+      <workItem from="1537148742103" duration="4964000" />
+      <workItem from="1537180426465" duration="1081000" />
+      <workItem from="1537328268768" duration="687000" />
+      <workItem from="1537439689838" duration="8054000" />
+      <workItem from="1537510825888" duration="4878000" />
+      <workItem from="1537519931129" duration="6447000" />
+      <workItem from="1537679068599" duration="4266000" />
+      <workItem from="1537693083848" duration="19748000" />
+      <workItem from="1537767078232" duration="7753000" />
+      <workItem from="1537776961397" duration="8704000" />
+      <workItem from="1537852868240" duration="3151000" />
+      <workItem from="1537875244295" duration="12606000" />
+      <workItem from="1537956278179" duration="6534000" />
+      <workItem from="1538036596025" duration="866000" />
+      <workItem from="1538060526991" duration="4783000" />
+      <workItem from="1538125956200" duration="10997000" />
+      <workItem from="1538189866394" duration="11409000" />
+      <workItem from="1538277884704" duration="4928000" />
+      <workItem from="1538365675410" duration="10741000" />
+      <workItem from="1538460555556" duration="3843000" />
+      <workItem from="1538529584607" duration="9372000" />
+      <workItem from="1538973048891" duration="10016000" />
+      <workItem from="1539486575544" duration="13270000" />
+      <workItem from="1539580073076" duration="6555000" />
+      <workItem from="1539697082756" duration="6490000" />
+      <workItem from="1539769834833" duration="5996000" />
+      <workItem from="1539781917872" duration="7951000" />
+      <workItem from="1539859921986" duration="611000" />
+      <workItem from="1539927101926" duration="808000" />
+      <workItem from="1539928322168" duration="10054000" />
+      <workItem from="1540014858348" duration="4948000" />
+      <workItem from="1540028590963" duration="14125000" />
+      <workItem from="1540089326153" duration="3082000" />
+      <workItem from="1541049919342" duration="667000" />
+      <workItem from="1542765767769" duration="1699000" />
+      <workItem from="1542856001088" duration="753000" />
+      <workItem from="1542937303751" duration="4277000" />
+      <workItem from="1543113380891" duration="851000" />
+      <workItem from="1543268535243" duration="4545000" />
+      <workItem from="1543306025066" duration="2754000" />
+      <workItem from="1543457874569" duration="2341000" />
+      <workItem from="1543543496229" duration="1014000" />
+      <workItem from="1543747556769" duration="2600000" />
+      <workItem from="1543806349690" duration="1145000" />
+      <workItem from="1543892033284" duration="240000" />
+      <workItem from="1544076298595" duration="3640000" />
+      <workItem from="1544160357549" duration="447000" />
+      <workItem from="1545029728676" duration="1743000" />
+      <workItem from="1545053072367" duration="1207000" />
+      <workItem from="1545100066002" duration="2125000" />
+      <workItem from="1545552056150" duration="2202000" />
+      <workItem from="1552206794464" duration="6474000" />
+      <workItem from="1552294592176" duration="17316000" />
+      <workItem from="1552361550163" duration="6280000" />
+      <workItem from="1552553487444" duration="3108000" />
+      <workItem from="1552701642630" duration="6962000" />
+      <workItem from="1552884924088" duration="1557000" />
+      <workItem from="1552904183354" duration="3952000" />
+      <workItem from="1553082924360" duration="5249000" />
+      <workItem from="1553149492819" duration="9010000" />
+      <workItem from="1553223951876" duration="20927000" />
+      <workItem from="1553309038562" duration="9868000" />
+      <workItem from="1554723074500" duration="5448000" />
+      <workItem from="1555207926045" duration="5076000" />
+      <workItem from="1556104629561" duration="567000" />
+      <workItem from="1556105236671" duration="19000" />
+      <workItem from="1557658426978" duration="91000" />
+      <workItem from="1558614805870" duration="264000" />
+      <workItem from="1560088223929" duration="549000" />
+      <workItem from="1562549053340" duration="6977000" />
+      <workItem from="1562556427505" duration="2531000" />
+      <workItem from="1562567571155" duration="394000" />
+      <workItem from="1562635875419" duration="8912000" />
+      <workItem from="1563156064423" duration="6594000" />
+      <workItem from="1563172138758" duration="1605000" />
+      <workItem from="1563244652680" duration="4729000" />
+      <workItem from="1563327084322" duration="7065000" />
+      <workItem from="1563411256327" duration="705000" />
+      <workItem from="1563415026652" duration="537000" />
+      <workItem from="1563499215475" duration="1713000" />
+      <workItem from="1563502159739" duration="4698000" />
+      <workItem from="1563758515754" duration="3913000" />
+      <workItem from="1563846241437" duration="4109000" />
+      <workItem from="1563930267256" duration="4614000" />
+      <workItem from="1564019298547" duration="3233000" />
+      <workItem from="1564971230100" duration="1491000" />
+      <workItem from="1564976018359" duration="1781000" />
+      <workItem from="1564989057656" duration="2107000" />
+      <workItem from="1565054574876" duration="2468000" />
+      <workItem from="1565578361300" duration="2556000" />
+      <workItem from="1565663292141" duration="2564000" />
+      <workItem from="1567068627416" duration="2584000" />
+      <workItem from="1568598094161" duration="579000" />
+      <workItem from="1568682427327" duration="4137000" />
+      <workItem from="1568768991398" duration="9250000" />
+      <workItem from="1568861606978" duration="10779000" />
+      <workItem from="1568944016405" duration="3649000" />
+      <workItem from="1569206391232" duration="1624000" />
+      <workItem from="1569223278362" duration="3196000" />
+      <workItem from="1569287373482" duration="5770000" />
+      <workItem from="1569372912066" duration="6033000" />
+      <workItem from="1569400797195" duration="46000" />
+      <workItem from="1569402104191" duration="839000" />
+      <workItem from="1569403652969" duration="598000" />
+      <workItem from="1569460918134" duration="14809000" />
+      <workItem from="1569548917383" duration="11118000" />
+      <workItem from="1569719808610" duration="12494000" />
+      <workItem from="1569808041099" duration="2135000" />
+      <workItem from="1570500332894" duration="443000" />
+      <workItem from="1570500813700" duration="10307000" />
+      <workItem from="1570583460711" duration="8117000" />
+      <workItem from="1570604910229" duration="6622000" />
+      <workItem from="1570669598774" duration="21470000" />
+      <workItem from="1570765505100" duration="12169000" />
+      <workItem from="1570793735250" duration="5566000" />
+      <workItem from="1570842078185" duration="10820000" />
+      <workItem from="1570858133708" duration="14966000" />
+      <workItem from="1570879474086" duration="649000" />
+      <workItem from="1571020995573" duration="687000" />
+      <workItem from="1571021716539" duration="147000" />
+      <workItem from="1571021934011" duration="12452000" />
+      <workItem from="1571048752627" duration="13359000" />
+      <workItem from="1571064709465" duration="1591000" />
+      <workItem from="1571066519614" duration="208000" />
+      <workItem from="1571068168506" duration="578000" />
+      <workItem from="1571070144877" duration="3259000" />
+      <workItem from="1571102096518" duration="820000" />
+      <workItem from="1571112233825" duration="8614000" />
+      <workItem from="1571189099497" duration="15819000" />
+      <workItem from="1571273727337" duration="11525000" />
+      <workItem from="1571475092070" duration="115000" />
+      <workItem from="1571478225683" duration="134000" />
+      <workItem from="1571478394607" duration="48000" />
+      <workItem from="1571478493549" duration="12000" />
+      <workItem from="1571478754814" duration="89000" />
+      <workItem from="1571479265659" duration="30000" />
+      <workItem from="1571498381167" duration="7199000" />
+      <workItem from="1571554237757" duration="13960000" />
+      <workItem from="1571619237441" duration="583000" />
+      <workItem from="1571628035719" duration="10485000" />
+      <workItem from="1571663639215" duration="1239000" />
+      <workItem from="1571707343379" duration="4843000" />
+      <workItem from="1571738072206" duration="6955000" />
+      <workItem from="1571791526666" duration="15000" />
+      <workItem from="1571793250253" duration="10000" />
+      <workItem from="1571810773597" duration="15000" />
+      <workItem from="1571814527331" duration="597000" />
+      <workItem from="1571822799650" duration="583000" />
+      <workItem from="1571828097602" duration="4443000" />
+      <workItem from="1571833530640" duration="429000" />
+      <workItem from="1571879129196" duration="4085000" />
+      <workItem from="1571905995888" duration="599000" />
+      <workItem from="1572068002074" duration="21058000" />
+      <workItem from="1572100128811" duration="8917000" />
+      <workItem from="1572146980423" duration="7998000" />
+      <workItem from="1572224659597" duration="37000" />
+      <workItem from="1572229329654" duration="4988000" />
+      <workItem from="1572270019061" duration="10822000" />
+      <workItem from="1572310833834" duration="8332000" />
+      <workItem from="1572354292043" duration="6577000" />
+      <workItem from="1572399092104" duration="855000" />
+      <workItem from="1572402589386" duration="6471000" />
+      <workItem from="1572437595803" duration="3644000" />
+      <workItem from="1572487929561" duration="6237000" />
+      <workItem from="1572524585924" duration="8908000" />
+      <workItem from="1572576287889" duration="2123000" />
+      <workItem from="1572593140990" duration="2209000" />
+      <workItem from="1572611517447" duration="650000" />
+      <workItem from="1572619042237" duration="730000" />
+      <workItem from="1572685857560" duration="15899000" />
+      <workItem from="1572759688923" duration="15603000" />
+      <workItem from="1572830250463" duration="14566000" />
+      <workItem from="1572865821564" duration="5582000" />
+      <workItem from="1572871906867" duration="633000" />
+      <workItem from="1572916825716" duration="4355000" />
+      <workItem from="1572959476366" duration="9950000" />
+      <workItem from="1573002455108" duration="4890000" />
+      <workItem from="1573042676106" duration="1801000" />
+      <workItem from="1573088841208" duration="2493000" />
+      <workItem from="1573196884287" duration="887000" />
+      <workItem from="1573311442107" duration="4703000" />
+      <workItem from="1573396865515" duration="4817000" />
+      <workItem from="1573434957471" duration="11900000" />
+      <workItem from="1573475317725" duration="2421000" />
+      <workItem from="1573521527480" duration="12135000" />
+      <workItem from="1573541817855" duration="5333000" />
+      <workItem from="1573559998501" duration="4013000" />
+      <workItem from="1573652441300" duration="13297000" />
+      <workItem from="1573694471768" duration="6204000" />
+      <workItem from="1573711837544" duration="6694000" />
+      <workItem from="1573741423276" duration="6022000" />
+      <workItem from="1573800933788" duration="2394000" />
+      <workItem from="1573891991109" duration="2199000" />
+      <workItem from="1573894260366" duration="14183000" />
+      <workItem from="1573996699611" duration="2769000" />
+      <workItem from="1574039230169" duration="13827000" />
+      <workItem from="1574085207919" duration="4943000" />
+      <workItem from="1574125905544" duration="20595000" />
+      <workItem from="1574165202104" duration="3818000" />
+      <workItem from="1574174374786" duration="15212000" />
+      <workItem from="1574253468030" duration="2921000" />
+      <workItem from="1574298747686" duration="8630000" />
+      <workItem from="1574340736140" duration="1823000" />
+      <workItem from="1574385365977" duration="16651000" />
+      <workItem from="1574437484696" duration="3625000" />
+      <workItem from="1574475935256" duration="10000" />
+      <workItem from="1574521791989" duration="2009000" />
+      <workItem from="1574605840445" duration="2929000" />
+      <workItem from="1574644466403" duration="4681000" />
+      <workItem from="1574650064952" duration="13810000" />
+      <workItem from="1574688483772" duration="18000" />
+      <workItem from="1574692874618" duration="1807000" />
+      <workItem from="1574733254301" duration="17864000" />
+      <workItem from="1574764742844" duration="10942000" />
+      <workItem from="1574817661006" duration="20036000" />
+      <workItem from="1574855031591" duration="6977000" />
+      <workItem from="1574903356668" duration="18212000" />
+      <workItem from="1574951607322" duration="4104000" />
+      <workItem from="1574961639195" duration="1251000" />
+      <workItem from="1574989988052" duration="1540000" />
+      <workItem from="1575183246825" duration="15891000" />
+      <workItem from="1575250750111" duration="20300000" />
+      <workItem from="1575336363056" duration="14158000" />
+      <workItem from="1575377367791" duration="4089000" />
+      <workItem from="1575422122060" duration="3640000" />
+      <workItem from="1575441370086" duration="8225000" />
+      <workItem from="1575536894947" duration="230000" />
+      <workItem from="1575552820590" duration="1034000" />
+      <workItem from="1575594775240" duration="10314000" />
+      <workItem from="1575613362985" duration="2339000" />
+      <workItem from="1575703067473" duration="6426000" />
+      <workItem from="1575789889964" duration="13214000" />
+      <workItem from="1575854782151" duration="20387000" />
+      <workItem from="1575895945272" duration="4980000" />
+      <workItem from="1575940621121" duration="9332000" />
+      <workItem from="1575957921524" duration="5016000" />
+      <workItem from="1575973935730" duration="1941000" />
+      <workItem from="1576026591761" duration="15074000" />
+      <workItem from="1576050039606" duration="6640000" />
+      <workItem from="1576069138686" duration="3534000" />
+      <workItem from="1576113391745" duration="12073000" />
+      <workItem from="1576138078031" duration="3952000" />
+      <workItem from="1576147454139" duration="10505000" />
+      <workItem from="1576200831567" duration="9024000" />
+      <workItem from="1576217763163" duration="3155000" />
+      <workItem from="1576247313262" duration="946000" />
+      <workItem from="1576292802642" duration="2407000" />
+      <workItem from="1576320908080" duration="16040000" />
+      <workItem from="1576408162210" duration="9207000" />
+      <workItem from="1576423399938" duration="1084000" />
+      <workItem from="1576424556980" duration="191000" />
+      <workItem from="1576460262770" duration="7813000" />
+      <workItem from="1576548482157" duration="11405000" />
+      <workItem from="1576631535873" duration="19762000" />
+      <workItem from="1576683549034" duration="1877000" />
+      <workItem from="1576719390907" duration="18761000" />
+      <workItem from="1576756083230" duration="5221000" />
+      <workItem from="1576804201894" duration="6746000" />
+      <workItem from="1576826288903" duration="7663000" />
+      <workItem from="1576848423989" duration="2588000" />
+      <workItem from="1576898315382" duration="4766000" />
+      <workItem from="1576912124053" duration="20156000" />
+      <workItem from="1576986996440" duration="13975000" />
+      <workItem from="1577063969262" duration="1046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1721395000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.2310204" />
+      <window_info id="Maven Projects" order="1" />
+      <window_info id="Structure" order="2" weight="0.24966262" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50259066" side_tool="true" weight="0.16734143" />
+      <window_info id="JRebel" order="8" sideWeight="0.50323975" side_tool="true" weight="0.16081633" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38733706" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48734695" weight="0.32774675" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4865306" weight="0.36685288" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tool Output" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5134694" side_tool="true" weight="0.29236498" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5027933" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24953446" />
+      <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.5094467" side_tool="true" weight="0.33480176" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32892805" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489796" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3292683" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32897958" />
+      <window_info anchor="right" x="504" y="256" width="338" height="600" id="JRebel Setup Guide" order="10" side_tool="true" weight="0.32388663" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49676025" visible="true" weight="0.16081633" />
+      <window_info id="Maven Projects" order="1" />
+      <window_info id="Structure" order="2" weight="0.24966262" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Favorites" order="7" sideWeight="0.50259066" side_tool="true" weight="0.16734143" />
+      <window_info id="JRebel" order="8" sideWeight="0.50323975" side_tool="true" weight="0.16081633" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38733706" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48852903" visible="true" weight="0.29608938" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48734695" weight="0.45996276" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Tool Output" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.51265305" side_tool="true" weight="0.29981378" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5027933" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.24953446" />
+      <window_info anchor="bottom" id="JProfiler" order="13" weight="0.32993197" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="16" />
+      <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.5094467" side_tool="true" weight="0.33480176" />
+      <window_info anchor="bottom" id="Problems" order="18" weight="0.32892805" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2489796" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3292683" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3292683" />
+      <window_info anchor="right" id="Maven" order="9" weight="0.32928476" />
+      <window_info anchor="right" x="504" y="256" width="338" height="600" id="JRebel Setup Guide" order="10" side_tool="true" weight="0.32388663" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U49.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U64.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U139.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U200.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U5.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U7.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U8.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution/U13.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U34.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U46.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U73.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U103.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U97.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U120.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U122.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U123.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U129.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U131.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U151.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U150.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U154.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/solution2/U171.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_191.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_200.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_201.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_202.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_209.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_215.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_229.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_283.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_289.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_292.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_300.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_310.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_313.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_318.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_318.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_319.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_215.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_324.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_331.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_331.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_331.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_332.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_345.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_355.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_357.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_368.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_373.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_377.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_377.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_146.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_380.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_380.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_383.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_386.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_387.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_388.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_393.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_393.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="305" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_394.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="306" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_395.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_396.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_400.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_401.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="327" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/lc_406.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/niuke$lc_388.ic" NAME="lc_388 Coverage Results" MODIFIED="1576746120454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/niuke$lc_307.ic" NAME="lc_307 Coverage Results" MODIFIED="1574932717467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leetcode.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>new lc_401().readBinaryWatch(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new lc_399().calcEquation(list, v, lst)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>preVal - len * A[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>total - A[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>preVal - len * A[i] + total - A[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str.length() - 8 + i</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;aaaaaaaaaaaaaaaaaaaaa&quot;.length();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rs.isEmpty()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c[i] == '\n'</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>U1042().gardenNoAdj3(10,new int[][]{{10,8},{2,1},{4,5},{10,7},{4,2},{7,6},{8,1},{8,4},{7,5},{10,2},{3,5},{3,6}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>U1042().gardenNoAdj3(7,new int[][]{{7,4},{3,7},{1,5},{5,4},{7,1},{3,1},{4,3},{6,5}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj3(4,new int[][]{{3,4},{4,2},{3,2},{1,3}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj(10,new int[][]{{10,8},{2,1},{4,5},{10,7},{4,2},{7,6},{8,1},{8,4},{7,5},{10,2},{3,5},{3,6}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj(7,new int[][]{{7,4},{3,7},{1,5},{5,4},{7,1},{3,1},{4,3},{6,5}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj2(4,new int[][]{{3,4},{4,2},{3,2},{1,3}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj(4,new int[][]{{3,4},{4,2},{3,2},{1,3}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj(8,new int[][]{{7,4},{3,7},{1,5},{5,4},{7,1},{3,1},{4,3},{6,5}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new U1042().gardenNoAdj(5,new int[][]{{1,2},{2,3},{3,1}})</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_357.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_365.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_367.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_332.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_368.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_371.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_372.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_373.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_374.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="656" column="18" selection-start-line="656" selection-start-column="18" selection-end-line="656" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1640">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1754">
+          <caret line="261" column="5" lean-forward="true" selection-start-line="261" selection-start-column="5" selection-end-line="261" selection-end-column="5" />
+          <folding>
+            <element signature="e#3740#3741#0" expanded="true" />
+            <element signature="e#3777#3778#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/p1/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_375.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="230" column="8" selection-start-line="230" selection-start-column="8" selection-end-line="230" selection-end-column="19" />
+          <folding>
+            <element signature="e#20484#20485#0" expanded="true" />
+            <element signature="e#20520#20521#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="234" column="55" lean-forward="true" selection-start-line="234" selection-start-column="8" selection-end-line="234" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_376.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_377.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_378.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution/U79.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_380.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_382.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="28" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="1553" column="53" lean-forward="true" selection-start-line="1553" selection-start-column="16" selection-end-line="1553" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_383.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_384.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="798">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#606#607#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_385.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="53" column="38" selection-start-line="52" selection-start-column="20" selection-end-line="53" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_386.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_387.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_388.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_389.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_390.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_392.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_393.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_394.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution/U78.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/solution2/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_146.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="75" column="5" selection-start-line="75" selection-start-column="5" selection-end-line="75" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_132.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_400.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_399.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_398.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_397.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_396.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_395.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_401.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="48" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_404.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_405.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_406.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/lc_409.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>niuke</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
