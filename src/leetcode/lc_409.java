@@ -16,8 +16,4 @@ public class lc_409 {
         }
         return res == s.length() ? res : res + 1;
     }
-
-    public static void main(String[] args) {
-        System.out.println('A' - 'A');
-    }
 }
