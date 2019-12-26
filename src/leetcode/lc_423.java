@@ -39,8 +39,4 @@ public class lc_423 {
             v[ch - 'a'] -= num;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_423().originalDigits("owoztneoer"));
-    }
 }
