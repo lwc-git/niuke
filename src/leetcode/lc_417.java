@@ -2,6 +2,7 @@ package leetcode;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -9,29 +10,48 @@ import java.util.List;
  * @date 2019/12/25 10:27
  */
 public class lc_417 {
+    int[][] direct = new int[][]{{0,-1},{0,1},{1,0},{-1,0}};
     public List<List<Integer>> pacificAtlantic(int[][] matrix) {
         List<List<Integer>> lst = new ArrayList<>();
-        if(matrix.length == 0 || matrix[0].length == 0)
+        if (matrix.length == 0 || matrix[0].length == 0)
             return lst;
         int x = matrix.length, y = matrix[0].length;
+        int[][] v1 = new int[x][y];
+        int[][] v2 = new int[x][y];
+        LinkedList<int[]> queue = new LinkedList<>();
+
+        //太平洋
+        for(int i = 0; i < y; i++) queue.push(new int[]{0, i});
+        for(int i = 0; i < x; i++) queue.push(new int[]{i, 0});
+        help(queue, matrix, v1);
+
+        //大西洋
+        for(int i = 0; i < y; i++) queue.push(new int[]{x - 1, i});
+        for(int i = 0; i < x; i++) queue.push(new int[]{i, y - 1});
+        help(queue, matrix, v2);
 
         for(int i = 0; i < x; i++){
             for(int j = 0; j < y; j++){
-
+                if(v1[i][j] == 1 && v2[i][j] == 1)
+                    lst.add(Arrays.asList(i, j));
             }
         }
         return lst;
     }
 
-    public void lHelp(int[][] m, int x, int y, int[][] v){
-
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_417().pacificAtlantic(new int[][]{
-                {1,2,3},
-                {8,9,4},
-                {7,6,5},
-        }));
+    public void help(LinkedList<int[]> queue, int[][] m, int[][] v){
+        while(!queue.isEmpty()){
+            int[] temp = queue.pop();
+            int i = temp[0], j = temp[1];
+            v[i][j] = 1;
+            if(i - 1 >= 0 && v[i-1][j] == 0 && m[i-1][j] >= m[i][j])
+                queue.push(new int[]{i-1, j});
+            if(i + 1 < m.length && v[i+1][j] == 0 && m[i+1][j] >= m[i][j])
+                queue.push(new int[]{i+1, j});
+            if(j - 1 >= 0 && v[i][j-1] == 0 && m[i][j-1] >= m[i][j])
+                queue.push(new int[]{i, j-1});
+            if(j + 1 < m[0].length && v[i][j+1] == 0 && m[i][j+1] >= m[i][j])
+                queue.push(new int[]{i, j+1});
+        }
     }
 }
