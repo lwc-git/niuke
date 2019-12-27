@@ -1,41 +1,41 @@
 package leetcode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * @author lwc
  * @date 2019/12/26 21:32
  */
 public class lc_424 {
     public int characterReplacement(String s, int k) {
-        if(s.length() < 1) return 0;
+        if(s.length() <= k + 1) return s.length();
+        Map<Character, Integer> map = new HashMap<>();
         char[] c = s.toCharArray();
-        int max = 1;
-        int[] dp = new int[c.length];
-        int[] v = new int[c.length];
-        for(int i = 1; i < c.length; i++){
-            if(i <= k) dp[i] = i + 1;
-            else{
-                v[i] = help(c, i, k);
-                if(c[i] == c[i-1])
-                    dp[i] = Math.max(v[i-1] + 1, v[i]);
-                else
-                    dp[i] = Math.max(1 + help(c, i-1, k-1), v[i]);
-            }
-            max = Math.max(dp[i], max);
+        for(char ch : c) map.put(ch, map.getOrDefault(ch, 0) + 1);
+        int max = k + 1;
+        for(char ch : map.keySet()){
+            if(map.get(ch) + k <= max) continue;
+            max = Math.max(help(c, ch, k), max);
         }
         return max;
     }
 
-    public int help(char[] c, int i, int k){
-        char ch = c[i];
-        int j = i, m = k;
-        for(; j >= 0; j--){
-            if(c[j] != ch) m--;
-            if(m < 0) break;
+    public int help(char[] c, char ch, int k){
+        int left = 0, right = 0, max = 0;
+        while(right < c.length){
+            while(right < c.length && k >= 0){
+                if(c[right++] != ch) k--;
+            }
+            max = Math.max(max, right - left);
+            while(left < c.length && k < 0){
+                if(c[left++] != ch) k++;
+            }
         }
-        return i - j;
+        return max;
     }
 
     public static void main(String[] args) {
-        System.out.println(new lc_424().characterReplacement("AABABBA",1));
+        System.out.println(new lc_424().characterReplacement("ABAB",2));
     }
 }
