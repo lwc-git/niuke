@@ -10,7 +10,7 @@ import java.util.List;
  * @date 2019/12/25 10:27
  */
 public class lc_417 {
-    int[][] direct = new int[][]{{0,-1},{0,1},{1,0},{-1,0}};
+    int[][] direct = new int[][]{{0,1},{0,-1},{1,0},{-1,0}};
     public List<List<Integer>> pacificAtlantic(int[][] matrix) {
         List<List<Integer>> lst = new ArrayList<>();
         if (matrix.length == 0 || matrix[0].length == 0)
@@ -44,14 +44,13 @@ public class lc_417 {
             int[] temp = queue.pop();
             int i = temp[0], j = temp[1];
             v[i][j] = 1;
-            if(i - 1 >= 0 && v[i-1][j] == 0 && m[i-1][j] >= m[i][j])
-                queue.push(new int[]{i-1, j});
-            if(i + 1 < m.length && v[i+1][j] == 0 && m[i+1][j] >= m[i][j])
-                queue.push(new int[]{i+1, j});
-            if(j - 1 >= 0 && v[i][j-1] == 0 && m[i][j-1] >= m[i][j])
-                queue.push(new int[]{i, j-1});
-            if(j + 1 < m[0].length && v[i][j+1] == 0 && m[i][j+1] >= m[i][j])
-                queue.push(new int[]{i, j+1});
+            for(int[] d : direct){
+                int ni = i + d[0];
+                int nj = j + d[1];
+                if(ni >= 0 && ni < m.length && nj >= 0 && nj < m[0].length && v[ni][nj] == 0 && m[ni][nj] >= m[i][j]){
+                    queue.push(new int[]{ni,nj});
+                }
+            }
         }
     }
 }
