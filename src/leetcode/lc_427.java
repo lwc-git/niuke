@@ -32,40 +32,30 @@ public class lc_427 {
         return help(grid, 0, 0, grid.length - 1, grid[0].length - 1);
     }
 
-    public Node help(int[][] grid, int o1, int o2, int x, int y){
-        if(same(grid, o1, o2, x, y) == 1){
-            return new Node(grid[o1][o2] == 1, true, null, null, null, null);
+    public Node help(int[][] grid, int ti, int tj, int bi, int bj){
+        if(same(grid, ti, tj, bi, bj) == 1){
+            return new Node(grid[ti][tj] == 1, true, null, null, null, null);
         }
-        int m1 = o1 + x / 2;
-        int m2 = o2 + y / 2;
-        Node topLeft = help(grid, o1, o2, x / 2, y / 2);
-        Node topRight = help(grid, x - x / 2, o2, x / 2, y / 2);
-        return null;
+        int len1 = (bi - ti) / 2;
+        int len2 = (bj - tj) / 2;
+
+        Node topLeft = help(grid, ti, tj, ti + len1, tj + len2);
+        Node topRight = help(grid, ti, bj - len2, ti + len1, bj);
+        Node bottomLeft = help(grid, bi - len1, tj, bi, tj + len2);
+        Node bottomRight = help(grid, bi - len1, bj - len2, bi, bj);
+        return new Node(false, false, topLeft, topRight, bottomLeft, bottomRight);
     }
 
 
-    public int same(int[][] v, int o1, int o2, int x, int y){
-        int mark = v[o1][o2];
-        for(int i = o1; i <= o1 + x; i++){
-            for(int j = o2; j <= o2 + y; j++){
+    public int same(int[][] v, int ti, int tj, int bi, int bj){
+        int mark = v[ti][tj];
+        for(int i = ti; i <= bi; i++){
+            for(int j = tj; j <= bj; j++){
                 if(v[i][j] != mark){
                     return 0;
                 }
             }
         }
         return 1;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_427().construct(new int[][]{
-                {1,1,1,1,0,0,0,0},
-                {1,1,1,1,0,0,0,0},
-                {1,1,1,1,1,1,1,1},
-                {1,1,1,1,1,1,1,1},
-                {1,1,1,1,0,0,0,0},
-                {1,1,1,1,0,0,0,0},
-                {1,1,1,1,0,0,0,0},
-                {1,1,1,1,0,0,0,0}
-        }));
     }
 }
