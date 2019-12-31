@@ -29,26 +29,31 @@ public class lc_427 {
         if(grid.length == 0 || grid[0].length == 0){
             return null;
         }
-        return help(grid, 0, grid.length, 0, grid[0].length);
+        return help(grid, 0, 0, grid.length - 1, grid[0].length - 1);
     }
 
-    public Node help(int[][] grid, int tl, int tr, int bl, int br){
-        if(tl == tr || bl == br) {
-            return null;
+    public Node help(int[][] grid, int o1, int o2, int x, int y){
+        if(same(grid, o1, o2, x, y) == 1){
+            return new Node(grid[o1][o2] == 1, true, null, null, null, null);
         }
-        if(tr - tl == 1 && br - bl == 1){
-            return new Node(grid[tl][bl] == 1, true,  null, null, null, null);
+        int m1 = o1 + x / 2;
+        int m2 = o2 + y / 2;
+        Node topLeft = help(grid, o1, o2, x / 2, y / 2);
+        Node topRight = help(grid, x - x / 2, o2, x / 2, y / 2);
+        return null;
+    }
+
+
+    public int same(int[][] v, int o1, int o2, int x, int y){
+        int mark = v[o1][o2];
+        for(int i = o1; i <= o1 + x; i++){
+            for(int j = o2; j <= o2 + y; j++){
+                if(v[i][j] != mark){
+                    return 0;
+                }
+            }
         }
-
-        int tm = (tr + tl - 1) / 2 + 1;
-        int bm = (br + bl - 1) / 2 + 1;
-
-        Node tln = help(grid, tl, tm, bl, bm);
-        Node trn = help(grid, tm, tr, bl, bm);
-        Node bln = help(grid, tl, tm, bm, br);
-        Node brm = help(grid, tm, tr, bm, br);
-        Node root = new Node(false, false, tln, trn, bln, brm);
-        return root;
+        return 1;
     }
 
     public static void main(String[] args) {
