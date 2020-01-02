@@ -6,9 +6,11 @@ package leetcode;
  */
 public class lc_434 {
     public int countSegments(String s) {
+        if(s.isEmpty()) return 0;
         int count = 0;
-        for(char ch : s.toCharArray()){
-            if(! Character.isLetter(ch))
+        char[] c = s.toCharArray();
+        for(int i = 0; i < c.length; i++){
+            if(c[i] == ' ')
                 count++;
         }
         return count + 1;
