@@ -7,12 +7,14 @@ package leetcode;
 public class lc_434 {
     public int countSegments(String s) {
         if(s.isEmpty()) return 0;
-        int count = 0;
-        char[] c = s.toCharArray();
-        for(int i = 0; i < c.length; i++){
-            if(c[i] == ' ')
+        s += " ";
+        int count = 0; char pre = ' ';
+        for(char ch : s.toCharArray()){
+            if(ch == ' ' && pre != ' '){
                 count++;
+            }
+            pre = ch;
         }
-        return count + 1;
+        return count;
     }
 }
