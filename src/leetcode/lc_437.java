@@ -10,20 +10,15 @@ import java.util.List;
 public class lc_437 {
     public int pathSum(TreeNode root, int sum) {
         if(root == null) return 0;
-        return help(root, sum, new ArrayList<>());
+        return help(root, sum) + pathSum(root.left, sum) + pathSum(root.right, sum);
     }
 
-    public int help(TreeNode root, int sum, List<Integer> list){
-        int res = 0, val = root.val;
-        for(int t : list){
-            if(t + val == sum) res += 1;
+    public int help(TreeNode root, int sum){
+        if(root == null) return 0;
+        int res = 0;
+        if(root.val == sum){
+            res += 1;
         }
-        list.add(val);
-        if(val == sum) res += 1;
-        if(root.left != null)
-            res += help(root.left, sum, new ArrayList<>(list));
-        if(root.right != null)
-            res += help(root.right, sum, new ArrayList<>(list));
-        return res;
+        return res + help(root.left, sum - root.val) + help(root.right, sum - root.val);
     }
 }
