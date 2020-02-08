@@ -22,8 +22,4 @@ public class lc_457 {
             if(cur < 0) cur += len;
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_457().circularArrayLoop(new int[]{2,-1,1,-2,-2}));
-    }
 }
