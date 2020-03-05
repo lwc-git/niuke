@@ -14,8 +14,4 @@ public class lc_461 {
         }
         return count;
     }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_461().hammingDistance(1, 4));
-    }
 }
