@@ -34,8 +34,4 @@ public class lc_466 {
             return "IPv6";
         }
     }
-
-    public static void main(String[] args) {
-        System.out.println(new lc_466().validIPAddress("172.16.254.1"));
-    }
 }
