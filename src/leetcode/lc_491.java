@@ -19,41 +19,31 @@ import java.util.*;
  */
 public class lc_491 {
     public List<List<Integer>> findSubsequences(int[] nums) {
-        List<List<Integer>> total = new ArrayList<>();
+        List<List<Integer>> resList = new ArrayList<>();
+        HashSet curSet = new HashSet();
         for(int i = 0; i < nums.length; i++){
-            List<Integer> t1 = new ArrayList<>();
-            t1.add(nums[i]);
-            total.add(t1);
-            int size = total.size();
-            for(int j = 0; j < size; j++){
-                List<Integer> t2 = total.get(i);
-                for(int k = i + 1; k < nums.length; k++){
-
-                }
+            if(!curSet.contains(nums[i])){
+                curSet.add(nums[i]);
+                List<Integer> curList = new ArrayList<>();
+                curList.add(nums[i]);
+                help(i, curList, resList, nums);
             }
         }
+        return resList;
+    }
 
-
-
-        Collections.sort(total, new Comparator<List<Integer>>() {
-            @Override
-            public int compare(List<Integer> o1, List<Integer> o2) {
-                if(o1.size() != o2.size()) {
-                    return o1.size() - o2.size();
-                }
-                else{
-                    for(int i = 0; i < o1.size(); i++){
-                        if(o1.get(i) > o2.get(i)) return 1;
-                        else if(o1.get(i) < o2.get(i)) return -1;
-                    }
-                }
-                return 0;
+    public void help(int preIndex, List<Integer> curList, List<List<Integer>> resList, int[] nums){
+        int preValue = nums[preIndex];
+        HashSet curSet = new HashSet();
+        for(int i = preIndex + 1; i < nums.length; i++){
+            if(nums[i] >= preValue && !curSet.contains(nums[i])){
+                curSet.add(nums[i]);
+                List nextList = new ArrayList(curList);
+                nextList.add(nums[i]);
+                resList.add(nextList);
+                help(i, nextList, resList, nums);
             }
-        });
-        return null;
+        }
     }
 
-    public static void main(String[] args) {
-        System.out.println(new lc_491().findSubsequences(new int[]{4,6,7,7}));
-    }
 }
